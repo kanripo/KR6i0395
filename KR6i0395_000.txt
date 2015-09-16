@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 燈指因緣經
+#+DATE: 2015-08-30 20:17:59.195165
+#+PROPERTY: JUAN 0
